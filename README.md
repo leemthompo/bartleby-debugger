@@ -5,7 +5,7 @@ A CLI debugger that would prefer not to.
 > [!NOTE]
 > This is a parody of [nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger). There is no package, no CLI, and no code. Bartleby would prefer not to ship any.
 
-![Bartleby, preferring not to](bartleby.webp)
+![Bartleby, preferring not to](prefer-not-to.gif)
 
 ## Why
 
